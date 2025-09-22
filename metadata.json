@@ -1,0 +1,7 @@
+{
+  "name": "Navratri AI Poster Designer : GordXRohit",
+  "description": "Designed By GordXRohit . An AI-powered photo editing app to generate high-quality Navratri and Durga Puja special poster designs from your photos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
